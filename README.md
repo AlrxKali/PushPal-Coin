@@ -75,15 +75,15 @@ PushPal’s marketplace uses **PPC as the customer currency**, while vendors get
 - Example:  
   - Vendor sets product price = **$25**.  
   - Base conversion = **25,000 PPC**.  
-  - Taxes + fees (e.g., 24%) = **+6,000 PPC**.  
-  - **Displayed price to customer = 31,000 PPC**.
+  - Taxes + fees = **+4,000 PPC**.  
+  - **Displayed price to customer = 29,000 PPC**.
 
 ### Vendor Withdrawals
 - Vendors withdraw earnings in their local currency.  
 - Conversion back: **1,000 PPC = $1 USD**.  
 - Example:  
-  - Customer pays **31,000 PPC** for a product.  
-  - Vendor withdraws = **$31 USD** (before any applicable payout processing fees).  
+  - Customer pays **29,000 PPC** for a product.  
+  - Vendor keeps listing price and withdraws = **$25 USD** (before any payout processing fees if applicable. If there is any applicable fee due to local regulation, processing service, etc, we will let you know when you apply for content creator or vendor account. Transparency is our priority).
 
 ---
 
