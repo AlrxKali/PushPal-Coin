@@ -12,7 +12,7 @@ Below is the current reward table:
 
 | Action | Reward | Notes |
 |--------|--------|-------|
-| **Like a post** | **+1 PPC** | Limit: 50 likes/day |
+| **Like a post or comment** | **+1 PPC** | Limit: 50 likes/day |
 | **Receive a like on your post** | **+2 PPC** | Encourages quality content |
 | **Write a positive/supportive comment** | **+3 PPC** | Limit: 20 comments/day |
 | **Receive a positive/supportive comment** | **+4 PPC** | Determined by community moderation or AI filter |
