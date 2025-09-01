@@ -13,10 +13,9 @@ Below is the current reward table:
 | Action | Reward | Notes |
 |--------|--------|-------|
 | **Like a post or comment** | **+1 PPC** | Limit: 50 likes/day |
-| **Receive a like on your post** | **+2 PPC** | Encourages quality content |
-| **Write a positive/supportive comment** | **+3 PPC** | Limit: 20 comments/day |
-| **Receive a positive/supportive comment** | **+4 PPC** | Determined by community moderation or AI filter |
-| **Daily login** | **+5 PPC** | Bonus streaks after consecutive days |
+| **Receive a like on your post** | **+1 PPC** | Encourages quality content |
+| **Write a positive/supportive comment** | **+2 PPC** | Limit: 20 comments/day |
+| **Receive a positive/supportive comment** | **+2 PPC** | Determined by community moderation or AI filter |
 | **Complete a workout session** | **+10 PPC** | Requires linked tracker or manual logging |
 | **Achieve a weekly fitness goal** | **+50 PPC** | Based on personal goal settings |
 | **Join a community challenge** | **+20 PPC** | Awarded on joining; extra coins on completion |
